@@ -1,5 +1,4 @@
-# Azure Women’s Hackathon 2022
-
+# <h1 align="center">Azure Women’s Hackathon 2022</h1>
 **Team Name**- HackHerTeam
 
 **Members List**
@@ -10,7 +9,7 @@
 
 **Institute** - National Institute of Technology, Agartala
 
-# SAATHI - A Friend In Need
+##<h1 align="center"> SAATHI - A Friend In Need</h1>
 
 ![1](https://user-images.githubusercontent.com/77076578/174490732-890ed491-7484-48cd-a858-4bec6351d1f2.jpg)
 

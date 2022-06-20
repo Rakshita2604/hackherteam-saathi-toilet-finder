@@ -5,7 +5,7 @@
 - Dayita Chaudhuri
 - Shagun Tripathi
 - Eshita Bhattacharjee
-- Rakshita Srivastava
+- Rakshita 
 
 **Institute** - National Institute of Technology, Agartala
 
